@@ -1,0 +1,5 @@
+DescribeTheWord.com is built using automated queries of DBpedia, a structured data representation of Wikipedia.
+
+The data used by DescribeTheWord.com is licensed under the terms of Creative Commons Attribution-ShareAlike 3.0 License, as is the DescribeTheWord.com derivative work.
+
+See here for the licence details: https://creativecommons.org/licenses/by-sa/3.0/deed.en
